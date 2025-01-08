@@ -30,7 +30,7 @@ This project is a **Skin Disease Classification Web Application** that uses deep
   └── README.md
 ```
 
-- **static/**: Contains CSS and JavaScript files for styling and interactivity.
+- **static/**: Contains `style.css` and `index.js` files for styling and interactivity.
 - **templates/**: Contains the `index.html` file for rendering the web interface.
 - **main.py**: The Flask application script.
 - **Skin_Disease_Classification.ipynb**: Notebook detailing model creation and training.
@@ -62,4 +62,9 @@ This project is a **Skin Disease Classification Web Application** that uses deep
 
 3. Upload an image to predict the skin disease.
 
+### Model
+  Model is not able to upload here due to large size please go through the ibpy file to train model and use it 
+
+### Dataset
+  use dataset from Kaagle  https://www.kaggle.com/datasets/subirbiswas19/skin-disease-dataset
 
