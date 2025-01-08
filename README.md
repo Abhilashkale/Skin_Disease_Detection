@@ -28,8 +28,7 @@ This project is a **Skin Disease Classification Web Application** that uses deep
   ├── Skin_Disease_Classification.ipynb
   ├── skin_disease_model.h5
   └── README.md
-
-
+```
 
 - **static/**: Contains CSS and JavaScript files for styling and interactivity.
 - **templates/**: Contains the `index.html` file for rendering the web interface.
@@ -44,6 +43,7 @@ This project is a **Skin Disease Classification Web Application** that uses deep
 - Flask
 - PIL (Pillow)
 
+  
 ### Installation
 1. Clone the repository:
    ```bash
