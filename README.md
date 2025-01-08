@@ -66,5 +66,4 @@ This project is a **Skin Disease Classification Web Application** that uses deep
   Model is not able to upload here due to large size please go through the ibpy file to train model and use it 
 
 ### Dataset
-  use dataset from Kaagle  https://www.kaggle.com/datasets/subirbiswas19/skin-disease-dataset
-
+  use dataset from Kaagle
