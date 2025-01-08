@@ -49,4 +49,17 @@ This project is a **Skin Disease Classification Web Application** that uses deep
    ```bash
    git clone https://github.com/your-username/skin-disease-classification.git
    cd skin-disease-classification
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+### Running the Application
+1. Start the Flask server:
+  ```bash
+  python main.py
+```
+2. Open your browser and navigate to http://127.0.0.1:5000.
+
+3. Upload an image to predict the skin disease.
+
 
