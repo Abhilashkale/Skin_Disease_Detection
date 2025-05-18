@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 
 form {
@@ -220,3 +219,96 @@ h3:hover::before {
     margin: 5px 0;
     font-size: 14px;
 }
+
+
+.result {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: #f0f9fb;
+    border: 2px solid #023047;
+    border-radius: 10px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result h2 {
+    width: 100%;
+    text-align: center;
+    color: #023047;
+}
+
+#extra-info {
+    max-width: 500px;
+    text-align: left;
+}
+
+#extra-info img {
+    max-width: 300px;
+    border-radius: 10px;
+    border: 2px solid #023047;
+}
+
+#extra-info p,
+#extra-info ul {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#extra-info ul {
+    padding-left: 20px;
+}
+
+
+.result {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: #f0f9fb;
+    border: 2px solid #023047;
+    border-radius: 10px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result h2 {
+    width: 100%;
+    text-align: center;
+    color: #023047;
+}
+
+#extra-info {
+    max-width: 500px;
+    text-align: left;
+}
+
+#extra-info img {
+    max-width: 300px;
+    border-radius: 10px;
+    border: 2px solid #023047;
+}
+
+#extra-info p,
+#extra-info ul {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#extra-info ul {
+    padding-left: 20px;
+}
+
+
+
